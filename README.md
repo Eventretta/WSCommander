@@ -8,3 +8,6 @@ Using a website you can inject WebSocket commands and run commands. There is 1 p
 # DISCLAIMER
 
 This is only, and only for EDUCATIONAL PURPOSES, i did it for fun!
+
+# SECURITY
+To secure this from hacking, to access your PC you need the key outputted by your Server. Otherwise it will not receive commands. People can see if someone tried to inject something but didn't have the Commander key.
